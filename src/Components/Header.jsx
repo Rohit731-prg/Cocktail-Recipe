@@ -30,7 +30,7 @@ function Header() {
         <button
         onClick={() => navigate('/favarate')}
         className='px-8 py-2 text-2xl text-white font-medium font-mono border-2 border-white rounded-lg active:bg-gray-800 active:border-gray-800'>
-          Favarate
+          Favorite
         </button>
     </div>
   )
